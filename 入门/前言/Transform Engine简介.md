@@ -48,6 +48,9 @@ Transform Engine 依赖面向对象编程规范。熟悉类、对象之类的概
 >[!NOTE]
 >在 CS50 中，你会学习很多编程语言。不要感到害怕：编程语言之间有很多的相似之处。你在学习一个语言时学到的技巧能够很容易地转移到其他语言上。
 
-在 [学习新特性](https://docs.godotengine.org/zh-cn/4.x/getting_started/introduction/learning_new_features.html#doc-learning-new-features) 中，我们会提供更多具体为 Transform Engine 学习的资源。
+[上一页](www.bilibili.com)
+[下一页](www.bilibili.com)
+
+在 [学习新特性](./学习新特性.md) 中，我们会提供更多具体为 Transform Engine 学习的资源。
 
 在下一部分中，你将大致了解引擎的基本概念。
