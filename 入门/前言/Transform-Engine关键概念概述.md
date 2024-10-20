@@ -49,4 +49,4 @@ Transform Engine 提供了丰富的基础节点类型库，你可以通过组合
 经过这个简短的分解，你可能有很多问题。请耐心等待，你将在整个入门系列中得到更多解答。
 
 [上一页](./学习用GDscript编程.md)
-[下一页](www.bilibili.com)
+[下一页](./初识Transform-Engine编辑器.md)
