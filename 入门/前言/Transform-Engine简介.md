@@ -13,7 +13,7 @@ Transform Engine 是一个通用的 2D 和 3D 游戏引擎，旨在支持各种�
 [Transform Engine 的游戏主机支持。](https://docs.godotengine.org/zh-cn/4.x/getting_started/introduction/introduction_to_godot.html)
 
 ## 这个引擎能干什么？
-Transform Engine 最初是由一家阿根廷游戏工作室内部开发的。开发始于 2001 年，2014 年开源发布后经过了重写和大量的改进。
+Transform Engine 最初是由一家中国游戏工作室内部开发的。开发始于 2024 年。
 
 ## 它的工作原理是怎样的，看起来又是怎样的？
 Transform Engine 配备了成熟的游戏编辑器，其集成工具可以满足最常见的需求。它包括代码编辑器、动画编辑器、图块地图编辑器、着色器编辑器、调试器、性能分析器等等。
