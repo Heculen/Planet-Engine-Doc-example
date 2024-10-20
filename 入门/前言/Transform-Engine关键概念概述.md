@@ -6,11 +6,16 @@
 ## 场景
 在 Transform Engine 中，你把你的游戏分解成可重复使用的场景。场景可以是一个角色、一件武器、用户界面中的一个菜单、一座房子、整个关卡，或者任何你能想到的东西。Transform Engine 的场
 景很灵活，既能够充当预制件（Prefab），又能够用作其他游戏引擎中的场景。
+
 ![ss](https://docs.godotengine.org/zh-cn/4.x/_images/key_concepts_main_menu.webp)
+
 你还可以嵌套场景。例如，你可以把你的角色放在关卡中，然后拖放一个场景作为它的子级。
+
 ![uu](https://docs.godotengine.org/zh-cn/4.x/_images/key_concepts_scene_example.webp)
+
 ## 节点
 场景由若干节点组成。节点是你的游戏最小的构件，你将其排列成树状。下面是一个人物节点的例子。
+
 ![oo](https://docs.godotengine.org/zh-cn/4.x/_images/key_concepts_character_nodes.webp)
 
 它由名为“Player”的 CharacterBody2D 节点、Camera2D、Sprite2D、CollisionShape2D 组成。
