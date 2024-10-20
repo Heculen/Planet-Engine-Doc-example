@@ -118,5 +118,5 @@ Transform Enigne 自带内置的类参考手册。
 
 ![uuytrt](https://docs.godotengine.org/zh-cn/4.x/_images/editor_intro_help_class_animated_sprite.webp)
 
-[上一页]()
-[下一页]()
+[上一页](./Transform-Engine关键概念概述.md)
+[下一页](./学习新特性.md)
